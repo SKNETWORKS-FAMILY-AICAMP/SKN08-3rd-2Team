@@ -3,36 +3,55 @@ SKN08-3rd-2Team
 
 SK Networks AI 8기 과정 3번째 단위 프로젝트입니다.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN08-2nd-2Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
-
-  <img width="1000" alt="image" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/7ea63fc3-95f0-44d5-a0f0-cf431cae34f1"> 
-
-</div>
-
 # 3차 프로젝트
  
 # 1. 팀 소개
-- 팀명: `OOOOOO`
-    <table>
+- 팀명: SNACK
+<table align=center>
+  <tbody>
     <tr>
-        <th>유제나</th>
-        <th>조준희</th>
-        <th>손승일</th>
-        <th>주고은</th>
-        <th>정현서</th>
+      <td align=center><b>유제나</b></td>
+      <td align=center><b>조준희</b></td>
+      <td align=center><b>주고은</b></td>
+      <td align=center><b>손승일</b></td>
+      <td align=center><b>정현서</b></td>
     </tr>
     <tr>
-        <th style="vertical-align: top;">DB (Chroma) <br> RAG <br> API <br> UI</th>
-        <th style="vertical-align: top;">DB (Milvus)<br>크롤링<br> 임베딩 <br> RAG <br> API <br> UI <br> 발표</th>
-        <th style="vertical-align: top;">DB (Milvus, Chroma) <br>크롤링<br> 임베딩</th>
-        <!-- <th>role 4.</th> -->
+      <td align="center">
+        <div>
+          <img width="200" alt="image" src="https://avatars.githubusercontent.com/u/167101468?v=4"width="200px;" alt="유제나">
+        </div>
+      </td>
+      <td align="center">
+        <div>
+          <img src = "https://avatars.githubusercontent.com/u/188949785?v=4" width="200px" height="200px"; alt="조준희"/>
+        </div>
+      </td>
+      <td align="center">
+        <div>
+          <img src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200" alt="주고은">
+        </div>
+      </td>
+      <td align="center">
+         <img src="https://avatars.githubusercontent.com/u/145750431?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
+      </td>
+       <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/122842851?v=4"width="200px;" alt="정현서"/>
+      </td>
     </tr>
-    </table>
+    <tr>
+      <td><a href="https://github.com/denalog"><div align=center>@denalog</div></a></td>
+      <td><a href="https://github.com/CodeLego8"><div align=center>@CodeLego8</div></a></td>
+      <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
+      <td><a href="https://github.com/ajeseung"><div align=center>@ajeseung</div></a></td>
+      <td><a href="https://github.com/jungs0914"><div align=center>@jungs0914</div></a></td>
+    </tr>
+  </tbody>
+</table>
+<br><br><br>
 
 
-
-# 3. Tech Stack (기술 스택)
+# 2. Tech Stack (기술 스택)
 
 >### <span style="color:cyan"> Co-Work Tool </span>
 <table>
@@ -46,76 +65,151 @@ SK Networks AI 8기 과정 3번째 단위 프로젝트입니다.
     <td>Development & Merge</td>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=Git&logoColor=gitkraken&logoColor=white"/></td>
   </tr>  
 </table>
 
->### <span style="color:cyan"> Data Analysis </span>
+
+>### <span style="color:cyan"> Data Server </span>
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></td>
+    <td>PyCharm</td>
     <td><img src="https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></td>
-    <td><img src="https://www.google.com/imgres?q=pydantic&imgurl=https%3A%2F%2Fwww.sequoiacap.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2Fname-and-logo-path.svg&imgrefurl=https%3A%2F%2Fwww.sequoiacap.com%2Fcompanies%2Fpydantic%2F&docid=ByIQNxThbh5s6M&tbnid=H7QjHvxf8agwXM&vet=12ahUKEwjGjoXM5vGLAxVGrlYBHfnbD98QM3oECEsQAA..i&w=946&h=189&hcb=2&ved=2ahUKEwjGjoXM5vGLAxVGrlYBHfnbD98QM3oECEsQAA"></td>
+    <td><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></td>
+  </tr>  
+  <tr>
+    <td>RDBMS</td>
+    <td><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
+    <td></td>
+    <td></td>
   </tr>
-</table> 
-
-
- 
-# 2. 프로젝트 개요
-- 프로젝트 명
-    
-    사용자 후기를 기억하는 QnA LLM 시스템 개발
-
-- 프로젝트 소개
-
-    소비자가 사용한 제품/서비스의 후기를 통해 신규 제공자/사용자가 궁금한 내용을 알려주는 LLM 서비스를 만들고자 한다. 주어진 블로그/웹 등 리뷰를 수집하고 LLM 모델이 주어진 리뷰의 날짜/별점/내용 등을 참조하여 시스템 사용자의 질의 응답을 준비한다.
-
-- 프로젝트 필요성(배경)
-
-    서비스가 장기적으로 운영되면서 사용자로부터 수집되는 데이터와 리뷰는 시간이 지남에 따라 방대해지고 복잡하다. 서비스가 성장하고 사용자 수가 증가함에 따라, 점점 더 많은 정보가 누적되고, 그에 따라 필요한 정보에 접근하는 것이 점차 어려진다. 그에 따라 사용자나 서비스 제공자가 필요한 정보만 알 수 있는 시스템의 필요성이 높아 개발하게 되었다.
-
-
-- 프로젝트 목표
-
-    사용자 특성에 맞게 필요한 정보만 빠르게 제공하는 시스템 (RAG: Retrieval-Augmented Generation model) 을 개발하고자 한다.
- 
-# 1. 기술 스택
-<div>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://a11ybadges.com/badge?logo=openai" alt="OpenAI" width="163" height="28"/>
-<img src="https://img.shields.io/badge/langchain-F7DF1E?style=for-the-badge&logo=langchain&logoColor=black"> <img src="https://github.com/pladata-encore/SKN07-3rd-2Team/blob/main/image/chromadb.jpg" alt="chromadb" width="90" height="40">
-<div>
-</div>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-</div>
-
- - ![OpenAI GPT-3.5 turbo](https://img.shields.io/badge/OpenAI-GPT--3.5--turbo-blueviolet?logo=openai&logoColor=white)
- - ![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet?logo=openai&logoColor=white)
-
-## 주요 프로시저
-
-- 프로젝트 수행 단계
-    1. 크롤링으로 제품/서비스 데이터를 수집 (.csv)
-    2. `./data/csv` 폴더안에 위치 시키고
-    3. OpenAIEmbeddings 모델로 text를 임베딩 후 DB에 올리고
-    4. ChatOpenAI, prompt, retriever 을 runnable로 설정
-    5. chainlit 구축
-
-- demo 시연 준비
-    1. `./chainlit` 디렉토리에서 app.py 실행
-    2. `localhost:8501` 접속
-    3. 원하는 내용용 검색
-
-## 수행결과(테스트/시연 페이지)
-
-<table> 
-  <tr><td align="center"><b>Demo 결과</b></td> </tr> <tr> <td> <img src='./assets/demo.png' alt="Chainlit Demo Example" width="300"> </td> </tr> 
+  <tr>
+  
 </table>
+
+>### <span style="color:cyan"> AI </span>
+<table>
+  <tr>
+    <td>OpenAI</td>
+    <td><img src="https://img.shields.io/badge/GPT--3.5--Turbo-00A67E?style=flat&logo=openai&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>RAG</td>
+    <td><img src="https://img.shields.io/badge/LangChain-FF9900?style=flat&logo=Chainlink&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>Vector DB</td>
+    <td><img src="https://img.shields.io/badge/FAISS-009688?style=flat&logo=Databricks&logoColor=white"/></td>
+  </tr>
+    
+  </tr>  
+  
+</table>
+
+>### <span style="color:cyan"> API Development & Testing </span>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></td>
+  </tr>  
+</table>
+
+<br><br><br>
+
+
+ 
+# 3. 프로젝트 개요
+### ✅프로젝트 명
+OpenAi API를 활용한 서울 맛집 정보 LLM 서비스
+
+### ✅프로젝트 소개
+이 프로젝트는 서울 내 맛집 정보를 AI 모델을 활용하여 제공하는 LLM 기반 추천 서비스입니다.
+사용자는 특정 지역, 음식 종류, 가격대 등 다양한 조건을 입력하여 자연어로 맛집을 추천받을 수 있으며,
+모델은 블로그 리뷰, 평점, 위치 데이터 등을 기반으로 최적의 맛집을 추천합니다.
+
+이를 위해 OpenAI의 GPT 모델을 파인튜닝하여 서울 맛집 데이터에 특화된 질의응답을 수행하도록 개선하며, 사용자 피드백을 반영하여 모델을 지속적으로 학습시킵니다.
+
+### ✅프로젝트 필요성(배경)
+1. 기존 맛집 검색 서비스는 광고 및 협찬이 포함된 결과가 많아, 신뢰할 수 있는 정보를 찾기가 어렵습니다.
+2. 사용자가 원하는 정보(위치, 메뉴, 리뷰 기반 추천)를 효율적으로 제공하는 시스템이 부족합니다.
+3. 블로그, SNS, 지도 리뷰 등 방대한 데이터를 활용하여 맞춤형 추천을 제공하는 AI 시스템이 필요합니다.
+4. 사용자의 피드백을 바탕으로, 지속적으로 성능이 향상되는 LLM 시스템을 구축하고자 합니다.
+
+
+### ✅프로젝트 목표
+
+OPENAI GPT 3.5-Turbo,FAISS,RAG을 활용하여 사용자 특성에 맞게 필요한 정보만 빠르게 제공하는 시스템을 개발하고자 합니다.
+
+# 4. FAISS 전처리
+```python
+# 문서 로드 및 전처리
+loader = TextLoader("맛집데이터.txt)  # 텍스트 파일 로드
+documents = loader.load()
+
+# 문서 임베딩을 위한 텍스트 분할
+text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=100)
+texts = text_splitter.split_documents(documents)
+
+# OpenAI 임베딩 모델을 사용하여 문서 벡터화
+embedding_model = OpenAIEmbeddings()
+vectorstore = FAISS.from_documents(texts, embedding_model)
+
+# 벡터스토어 기반 검색
+retriever = vectorstore.as_retriever()
+```
+1. 문서 로드 및 전처리
+- TextLoader를 이용하여 텍스트 데이터를 불러옵니다.
+- CharacterTextSplitter를 이용하여 문서를 작은 청크로 나누어 임베딩을 효과적으로 수행할 수 있도록 합니다.
+
+2. 임베딩 생성 및 FAISS 벡터 저장
+- OpenAIEmbeddings()를 활용하여 문서 데이터를 벡터화합니다.
+- FAISS.from_documents()를 사용하여 벡터 DB를 구축합니다.
+
+3. FAISS 검색 기능 설정
+- vectorstore.as_retriever()를 사용하여 LangChain과 연동 가능한 검색 시스템을 구축합니다.
+
+# 5. RAG 
+```python
+# LLM (GPT) + FAISS 기반 질의응답 시스템 구축
+qa_chain = RetrievalQA.from_chain_type(
+    llm=OpenAI(model_name="gpt-3.5-turbo"),
+    chain_type="stuff",
+    retriever=retriever
+)
+
+# 사용자 입력을 받아 검색 + 응답 생성 예시 테스트 코드
+query = "서울에서 유명한 한식 맛집을 추천해줘."
+response = qa_chain.run(query)
+
+print("\n💡 AI 응답:")
+print(response)
+```
+1. GPT-3.5-Turbo와 LangChain을 사용한 RAG 질의응답
+- RetrievalQA.from_chain_type()을 이용하여 검색 + GPT 응답을 자동으로 수행하는 파이프라인을 구축합니다.
+- 사용자가 입력한 질문을 FAISS를 통해 검색 후 관련 문서를 기반으로 GPT가 응답을 생성합니다.
+
+2. 질의 실행 및 응답 출력
+
+- "서울에서 유명한 한식 맛집을 추천해줘." 같은 질의를 실행하면 FAISS에서 관련 문서를 검색한 후 GPT가 최적화된 응답을 제공합니다.
+## LangChain + FAISS가 필요한 이유
+1. 빠른 검색 – FAISS를 활용하면 대규모 문서에서도 유사한 정보를 빠르게 검색할 수 있습니다.
+2. 정확한 응답 – LLM (GPT) 단독보다 검색 기반 응답이 더 정확한 정보를 제공합니다.
+3. RAG (Retrieval-Augmented Generation) 적용 가능 – 외부 문서를 참조한 응답 생성을 수행하여 최신 정보를 반영할 수 있습니다.
+
+#6.Fine-Tuning
+
+# Postman 출력 결과
+## 파인튜닝 및 RAG 수행 전
+<img width="778" alt="스크린샷 2025-03-05 오후 4 44 33" src="https://github.com/user-attachments/assets/278c433f-46c0-4066-821f-a8bf9e17babe" />
+출력 결과 독산동 '독수리매운갈비찜'은 존재하지 않는 음식점으로 거짓정보임을 확인할 수 있었습니다.
+
+## 파인튜닝 및 RAG 수행 후 
+
+
+
+
  
 ## 한 줄 회고
-신동익:
-박민혁:
-나성호:
+유제나:
+조준희:
+주고은:
+손승일:
+정현서:
